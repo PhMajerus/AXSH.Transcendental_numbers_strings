@@ -11,7 +11,7 @@
 '* This requires a bit of processing to recover the original digits string,
 '* but reduces the script file to just 611 KB, or over 30% file size saving.
 '* 
-'* Note the last digit is rounded up to 3, exact digit it 2 followed by 6.
+'* Note the last digit is rounded up to 3, exact digit is 2 followed by 6.
 '*
 
 Option Explicit
