@@ -1,5 +1,5 @@
 '*
-'* Value of TAU (2*PI) as a string with one million decimal digits.
+'* Value of Tau (2*Pi) as a string with one million decimal digits.
 '* 
 '* To avoid storing the string as a literal, which would require a 977 KB
 '* script file, this file contains the digits in a format similar to
