@@ -3,7 +3,7 @@
 '* 
 '* To avoid storing the string as a literal, which would require a 977 KB
 '* script file, this file contains the digits in a format similar to
-'* Packed-Decimal (BCD nibbles) with an extra value 0xA for the decimal
+'* Packed-Decimal (BCD nibbles) with an extra value &hA for the decimal
 '* point. It makes it possible to pack two digits per byte, which is then
 '* encoded in Base85 with an alphabet that is safe for any code page used to
 '* interpret the file, and does not contain any character that would require
